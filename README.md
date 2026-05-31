@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sumitsorate&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-https://trophygh.kolioaris.xyz/?username=SUMITSORATE
+![](https://trophygh.kolioaris.xyz/?username=SUMITSORATE)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
